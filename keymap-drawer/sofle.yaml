@@ -96,7 +96,7 @@ layers:
   - '~'
   - RGB BRI
   - RGB BRD
-  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '=', s: +}
   - '{'
   - {t: '$$mdi:menu-left$$', s: '$$mdi:mouse$$'}
   - '}'
