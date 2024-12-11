@@ -58,7 +58,7 @@
             bindings = <
 &kp GRAVE   &kp F1                          &kp F2                             &kp F3                             &kp F4           &kp F5              &mmv MOVE_UP     &kp F6             &kp F7           &kp F8        &kp F9                &kp F10                &kp F11
 &trans      &kp EXCLAMATION                 &kp AT_SIGN                        &kp HASH                           &kp DOLLAR       &kp PERCENT         &mmv MOVE_DOWN   &kp CARET          &kp AMPERSAND    &kp ASTERISK  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp F12
-&trans      &kp TILDE                       &rgb_ug RGB_BRI                    &rgb_ug RGB_BRD                    &trans           &kp LEFT_BRACE      &mmv MOVE_LEFT   &kp RIGHT_BRACE    &kp PLUS         &kp PIPE      &kp MINUS             &kp LEFT_BRACKET       &kp RIGHT_BRACKET
+&trans      &kp TILDE                       &rgb_ug RGB_BRI                    &rgb_ug RGB_BRD                    &kp EQUAL        &kp LEFT_BRACE      &mmv MOVE_LEFT   &kp RIGHT_BRACE    &kp PLUS         &kp PIPE      &kp MINUS             &kp LEFT_BRACKET       &kp RIGHT_BRACKET
 &trans      &rgb_ug RGB_OFF                 &rgb_ug RGB_ON                     &rgb_ug RGB_EFF                    &rgb_ug RGB_EFR  &kp LEFT_BRACKET    &mmv MOVE_RIGHT  &kp RIGHT_BRACKET  &rgb_ug RGB_BRD  &kp INSERT    &trans                &trans                 &trans
 &kp C_MUTE  &rgb_ug RGB_COLOR_HSB(0,0,100)  &rgb_ug RGB_COLOR_HSB(297,100,50)  &rgb_ug RGB_COLOR_HSB(194,100,50)  &trans           &trans              &mkp LCLK        &trans             &trans           &trans        &trans                &trans
             >;
